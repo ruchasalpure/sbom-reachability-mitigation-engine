@@ -1,5 +1,0 @@
-domain_knowledge:
-  category: "cybersecurity"
-  agent: "sbom-reachability-mitigation-engine"
-  ontology: "OpenGAP Core Ontology v1.0"
-  indexed_entities: 1024

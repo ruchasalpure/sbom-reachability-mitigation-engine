@@ -1,5 +1,0 @@
-{
-  "name": "sbom-reachability-mitigation-engine",
-  "service": "aws-kiro",
-  "version": "1.0.0"
-}

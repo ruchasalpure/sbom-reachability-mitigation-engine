@@ -1,8 +1,0 @@
-{
-  "agent_id": "sbom-reachability-mitigation-engine",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}

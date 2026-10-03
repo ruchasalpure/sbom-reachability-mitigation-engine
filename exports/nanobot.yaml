@@ -1,4 +1,0 @@
-spec: nanobot/v1
-name: sbom-reachability-mitigation-engine
-runtime: python3.11
-entrypoint: agent.py
