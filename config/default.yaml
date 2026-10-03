@@ -1,0 +1,6 @@
+app:
+  name: "sbom-reachability-mitigation-engine"
+  environment: "production"
+  logging:
+    level: "INFO"
+    format: "json"

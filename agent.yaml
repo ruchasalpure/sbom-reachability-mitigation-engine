@@ -1,0 +1,26 @@
+spec_version: "0.1.0"
+name: "sbom-reachability-mitigation-engine"
+version: "1.0.0"
+category: "cybersecurity"
+author: "Rucha Salpure"
+description: "Builds whole-program call graphs to differentiate directly reachable third-party CVE call sites from benign uninvoked package dependencies"
+capabilities:
+  - "callgraph-reachability-analysis"
+  - "autonomous-decision-making"
+  - "explainable-auditing"
+  - "multi-agent-collaboration"
+skills:
+  - "callgraph-reachability-analysis"
+tools:
+  - "python_executor"
+  - "audit_logger"
+  - "schema_validator"
+runtime:
+  environment: "python3.11"
+  memory_limit: "4GB"
+  timeout_seconds: 300
+governance:
+  audit_logging: true
+  human_in_the_loop: false
+  maker_checker: true
+  explainability_required: true
